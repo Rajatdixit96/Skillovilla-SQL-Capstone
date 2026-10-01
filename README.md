@@ -40,10 +40,6 @@ Calculate quarterly sales for each store and rank stores within each quarter.
 ### 5. Airport Flight Ranking
 Rank departure airports based on the number of departing flights.
 
-## Important Note
-
-For the two questions where the submitted answer was marked incorrect by Skillovilla, this repository contains **only Skillovilla's displayed Correct Answer**, not the submitted incorrect query.
-
 ## Tools / Concepts
 
 - SQL
